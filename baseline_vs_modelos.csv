@@ -1,0 +1,7 @@
+,Lanzador (GroupKFold),Temporada (última),Altitud extrema
+BASELINE: xRV medio por conteo,0.0027,0.0029,0.0007
+BASELINE: xRV medio por conteo y outs,0.0251,0.0267,0.0188
+Conteo + Stuff (modelo),0.0066,0.0067,0.0056
+Stuff,0.0038,0.0039,0.0036
+Stuff + ubicación,0.0112,0.0114,0.0116
+Pitching+ (completo),0.0402,0.0423,0.0349

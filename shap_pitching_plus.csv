@@ -1,0 +1,80 @@
+,mean_abs_shap,signo_sobre_xRV,pct_total,capa
+Outs,0.02891,-0.71403,31.62504,"Contexto, mano y altitud"
+in_strike_zone,0.01173,0.93484,12.8371,Ubicación y conteo
+Strikes,0.011,0.0694,12.03051,Ubicación y conteo
+Balls,0.00677,-0.76065,7.40072,Ubicación y conteo
+PlateLocHeight,0.0054,0.1731,5.90278,Ubicación y conteo
+PlateLocSide,0.00504,0.16461,5.50989,Ubicación y conteo
+altitude_ord,0.00419,0.85157,4.58825,"Contexto, mano y altitud"
+prev_pitch_type_None,0.00309,0.82605,3.3775,Arsenal
+tunnel_similarity,0.00152,0.58071,1.66677,Arsenal
+SpeedDrop,0.00117,-0.80566,1.28467,Stuff
+InducedVertBreak,0.00074,-0.31293,0.81432,Stuff
+VertApprAngle,0.00073,0.03173,0.79819,Stuff
+BatterSide_Right,0.00072,-0.0081,0.78381,Arsenal
+ivb_diff_vs_fb,0.00071,-0.44255,0.77274,Arsenal
+SpinRate,0.00067,-0.33848,0.72818,Stuff
+velo_diff_vs_fb,0.00065,0.69707,0.71575,Arsenal
+az0,0.00056,-0.31747,0.61372,Stuff
+Inning,0.00045,-0.88109,0.49708,"Contexto, mano y altitud"
+HorzRelAngle,0.00039,-0.0043,0.42769,Stuff
+HorzBreak,0.00036,0.28045,0.39485,Stuff
+HorzApprAngle,0.00035,0.35406,0.38559,Stuff
+ay0,0.00032,-0.67308,0.34882,Stuff
+SpinAxis,0.00028,-0.23882,0.30992,Stuff
+Extension,0.00028,0.32296,0.30881,Stuff
+RelSide,0.00028,-0.3538,0.30505,Stuff
+z0,0.00028,-0.45309,0.30226,Stuff
+vz0,0.00027,0.24759,0.29667,Stuff
+pitch_usage_pct,0.00027,-0.16839,0.29647,Arsenal
+hb_diff_vs_fb,0.00026,-0.3069,0.27913,Arsenal
+x0,0.00024,0.57667,0.2638,Stuff
+PitchTrajectoryZc1,0.00023,-0.24723,0.2545,Stuff
+VertRelAngle,0.00023,0.00266,0.25373,Stuff
+PitchTrajectoryYc1,0.00023,0.26195,0.2522,Stuff
+pfxz,0.00023,0.25524,0.24892,Stuff
+PitchTrajectoryZc0,0.00023,0.5643,0.24826,Stuff
+AutoPitchType_Sinker,0.00022,-0.66247,0.23786,Arsenal
+RelSpeed,0.00021,-0.63801,0.23283,Stuff
+vx0,0.00021,-0.3103,0.23257,Stuff
+ax0,0.00021,-0.57959,0.22932,Stuff
+PitchTrajectoryXc0,0.0002,0.22233,0.21984,Stuff
+pfxx,0.0002,-0.04671,0.2158,Stuff
+ZoneSpeed,0.00015,-0.44781,0.16557,Stuff
+PitchTrajectoryYc0,0.00014,-0.52671,0.15454,Stuff
+EffectiveVelo,0.00012,-0.4441,0.13051,Stuff
+vy0,0.00011,0.53527,0.12579,Stuff
+RelHeight,0.00011,-0.03843,0.12545,Stuff
+PitchTrajectoryXc2,1e-04,-0.50325,0.10879,Stuff
+PitchTrajectoryYc2,1e-04,-0.32971,0.10578,Stuff
+prev_pitch_type_Slider,8e-05,0.12055,0.09259,Arsenal
+PitchTrajectoryXc1,8e-05,0.27275,0.09094,Stuff
+ZoneTime,8e-05,0.43319,0.0903,Stuff
+prev_pitch_type_Sinker,8e-05,-0.76654,0.084,Arsenal
+prev_pitch_type_Four-Seam,5e-05,-0.65539,0.05788,Arsenal
+PitchTrajectoryZc2,5e-05,-0.30336,0.05682,Stuff
+AutoPitchType_Four-Seam,4e-05,0.62589,0.04671,Arsenal
+prev_pitch_type_Splitter,3e-05,-0.92595,0.03077,Arsenal
+AutoPitchType_Slider,2e-05,-0.54304,0.01667,Arsenal
+prev_pitch_type_Curveball,1e-05,0.75258,0.01058,Arsenal
+prev_pitch_type_Cutter,1e-05,-0.50757,0.00843,Arsenal
+AutoPitchType_Curveball,0.0,0.35418,0.00378,Arsenal
+AutoPitchType_Cutter,0.0,0.33376,0.00185,Arsenal
+AutoPitchType_Splitter,0.0,0.31461,0.00034,Arsenal
+y0,0.0,,0.0,Stuff
+AutoPitchType_Other,0.0,,0.0,Arsenal
+BatterSide_Unknown,0.0,,0.0,Arsenal
+BatterSide_Switch,0.0,,0.0,Arsenal
+PitcherThrows_Right,0.0,,0.0,Arsenal
+PitcherThrows_Undefined,0.0,,0.0,Arsenal
+PitcherThrows_Unknown,0.0,,0.0,Arsenal
+BatterSide_Undefined,0.0,,0.0,Arsenal
+AutoPitchType_OneSeamFastBall,0.0,,0.0,Arsenal
+prev_pitch_type_Knuckleball,0.0,,0.0,Arsenal
+AutoPitchType_Sweeper,0.0,,0.0,Arsenal
+AutoPitchType_TwoSeamFastBall,0.0,,0.0,Arsenal
+AutoPitchType_Knuckleball,0.0,,0.0,Arsenal
+prev_pitch_type_Other,0.0,,0.0,Arsenal
+prev_pitch_type_OneSeamFastBall,0.0,,0.0,Arsenal
+prev_pitch_type_Sweeper,0.0,,0.0,Arsenal
+prev_pitch_type_TwoSeamFastBall,0.0,,0.0,Arsenal

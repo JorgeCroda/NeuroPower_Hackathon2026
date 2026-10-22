@@ -1,0 +1,7 @@
+pitcher_anon_id,grupo,delta,ic95,delta_shrunk,n_no,n_ex,tipos
+pitcher_00477,menos pierden,0.258,1.286,-0.407,665,151,"Four-Seam, Sinker"
+pitcher_00547,menos pierden,-0.982,1.783,-1.929,206,202,"Four-Seam, Sinker, Slider"
+pitcher_00053,menos pierden,-1.501,1.578,-2.196,167,283,"Four-Seam, Slider"
+pitcher_00699,más pierden,-12.971,1.546,-12.029,168,347,"Curveball, Four-Seam"
+pitcher_00373,más pierden,-11.658,0.924,-11.36,613,444,"Changeup, Sinker, Slider"
+pitcher_01060,más pierden,-11.292,1.027,-10.954,209,955,"Curveball, Four-Seam"
